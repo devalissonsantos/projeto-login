@@ -57,11 +57,24 @@ h1 {
 }
 
 .dito {
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .botao {
+    font-size: 1em;
+    display: block;
     margin-top: 10px;
-    margin-left: 10px;
+    width: 100%;
+    border: none;
+    color: white;
+    background-color: #49a09d;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 8px;
+}
+
+.botao:hover {
+    background-color: #367775
+    ;
 }
 
