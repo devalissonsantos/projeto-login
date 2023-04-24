@@ -12,9 +12,13 @@
     #formulario {
         float: left;
         width: 65%;
+
     }
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
+    }
+    .dito {
+        font-size: 1em;
     }
 }
 
@@ -23,15 +27,22 @@
         width: 950px;
     }
     #imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
     #formulario {
         float: right;
         width: 50%;
+        font-size: 1.2em;
     }
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
+    }
+    .dito {
+        font-size: 1.2em;
+    }
+    h1 {
+        font-size: 2em;
     }
 }
